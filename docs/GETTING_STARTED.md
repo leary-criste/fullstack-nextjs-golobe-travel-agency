@@ -212,7 +212,7 @@ MAIL_SENDER_EMAIL=noreply@yourdomain.com
 
 4. **Update Environment Variable**
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/golobe_travel_agency
+   MONGODB_URI=mongodb+srv://username:password@xxx.mongodb.net
    ```
 
 ## 💳 Payment Integration (Stripe)
@@ -589,3 +589,4 @@ If you encounter any issues:
 **Happy Coding! 🚀**
 
 If you find this guide helpful, please consider giving the project a ⭐ on GitHub!
+
