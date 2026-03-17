@@ -201,4 +201,4 @@ export function SideBar({ isLoggedIn, sideBarLinksUser }) {
       </SheetContent>
     </Sheet>
   );
-}
+}
