@@ -9,4 +9,4 @@ export async function GET(req) {
   }
 }
 
-export function POST() {}
+export function POST() {}
