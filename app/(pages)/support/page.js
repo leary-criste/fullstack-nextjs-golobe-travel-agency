@@ -198,4 +198,4 @@ export default function SupportPage() {
       </Card>
     </div>
   );
-}
+}
