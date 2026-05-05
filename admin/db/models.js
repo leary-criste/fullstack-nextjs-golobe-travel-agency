@@ -59,4 +59,4 @@ const websiteConfigSchema = new Schema(
 const WebsiteConfig =
   models?.WebsiteConfig || model("WebsiteConfig", websiteConfigSchema);
 
-export { WebsiteConfig };
+export { WebsiteConfig };
