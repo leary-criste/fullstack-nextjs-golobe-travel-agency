@@ -221,4 +221,4 @@ function RoomDetailsModal({ customTriggerElement, roomDetails = {} }) {
   );
 }
 
-export default RoomDetailsModal;
+export default RoomDetailsModal;
