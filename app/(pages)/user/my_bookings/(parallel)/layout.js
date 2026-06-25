@@ -63,4 +63,4 @@ export default async function MyBookingsLayout({ flights, stays }) {
       </div>
     </main>
   );
-}
+}
