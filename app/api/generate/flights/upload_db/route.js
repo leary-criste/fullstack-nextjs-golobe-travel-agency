@@ -86,4 +86,4 @@ async function uploadFlightsDB() {
   }
 
   return data;
-}
+}
