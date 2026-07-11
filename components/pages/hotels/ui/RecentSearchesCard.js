@@ -35,4 +35,4 @@ export function RecentSearchesCard({
       </div>
     </div>
   );
-}
+}
