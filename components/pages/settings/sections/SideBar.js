@@ -42,4 +42,4 @@ export function SettingsSideBar() {
       </ul>
     </div>
   );
-}
+}
