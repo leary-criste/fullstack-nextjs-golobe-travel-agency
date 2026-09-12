@@ -20,4 +20,4 @@ export function AccountCreatedToast() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchParams]);
-}
+}
