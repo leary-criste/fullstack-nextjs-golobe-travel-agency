@@ -264,4 +264,4 @@ export function RoomSelector({ nextStep, rooms, guests = 1 }) {
       })}
     </div>
   );
-}
+}
