@@ -7,4 +7,4 @@ function FlightSearchPage({ params }) {
   );
 }
 
-export default FlightSearchPage;
+export default FlightSearchPage;
