@@ -183,4 +183,4 @@ async function FlightResultPage({ params }) {
   );
 }
 
-export default FlightResultPage;
+export default FlightResultPage;
