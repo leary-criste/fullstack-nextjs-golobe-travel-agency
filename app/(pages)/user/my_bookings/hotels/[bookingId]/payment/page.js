@@ -48,4 +48,4 @@ export default async function HotelPaymentPage({ params }) {
       />
     </main>
   );
-}
+}
