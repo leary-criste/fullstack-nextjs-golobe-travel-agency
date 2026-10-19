@@ -285,4 +285,4 @@ function Detail({ label, value, highlight = false }) {
       </p>
     </div>
   );
-}
+}
