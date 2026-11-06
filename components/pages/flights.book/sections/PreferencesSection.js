@@ -88,4 +88,4 @@ const PreferencesSection = ({ nextStep }) => {
   );
 };
 
-export default PreferencesSection;
+export default PreferencesSection;
