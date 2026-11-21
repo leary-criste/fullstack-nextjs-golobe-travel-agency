@@ -66,4 +66,4 @@ export default async function HotelBookPage({ params }) {
       </main>
     </>
   );
-}
+}
