@@ -18,4 +18,4 @@ async function HotelFilterPage({ params }) {
   );
 }
 
-export default HotelFilterPage;
+export default HotelFilterPage;
